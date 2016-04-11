@@ -8,6 +8,7 @@
       </div>
       <div class="col-lg-3 pull-right">
         <ul class="footer-list list-inline">
+		testing on git
          <?php       $defaults = array(
                                     'theme_location'  => '',
                                     'menu'            => 'footer_menu',
